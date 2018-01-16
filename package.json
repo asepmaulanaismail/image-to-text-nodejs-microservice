@@ -1,5 +1,5 @@
 {
-    "name": "jwt-auth-nodejs-microservice",
+    "name": "image-to-text-nodejs-microservice",
     "main": "server.js",
     "dependencies": {
         "express": "^4.16.2",
