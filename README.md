@@ -34,7 +34,7 @@ sudo docker run -d -p 8080:8080 jwt-auth-nodejs
 
 ## Tesseract
 
-Route to show a random message
+Convert uploaded file into text.
 
 POST: `localhost:8080/api/tesseract`
 
