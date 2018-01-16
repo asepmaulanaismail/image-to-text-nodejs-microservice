@@ -36,7 +36,7 @@ sudo docker run -d -p 8080:8080 jwt-auth-nodejs
 
 Route to show a random message
 
-POST: `localhost:8080/`
+POST: `localhost:8080/api/tesseract`
 
 Params (Multipart/form-data):
 
